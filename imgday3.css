@@ -1,0 +1,44 @@
+h1{
+    background-color: bisque;
+text-shadow: 5px 5px 5px;
+}
+:one{
+    width: 500px ;
+    height: 500px;
+    margin-left: 40%;
+    border-radius: 48%;
+    a:visited{
+        color: rgb(0, 0, 0);
+    }
+    a:hover{
+        color: blueviolet;
+    }
+    a:active{
+        color: bisque;
+    }
+    a:after{
+        color: blue;
+    }
+}
+a{
+    text-transform: uppercase;
+}
+img:hover{
+    width: 300px;
+    height: 400px;
+    border-radius: 45%;
+    
+
+}body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYCYHCC7pX-uj4y02rzEXWx0Fo9ac_UiF4A&s")
+}
+btn{
+    background-color: aquamarine;
+    border: none;
+    color: rgb(255, 240, 254);
+    padding: 10px;
+}
+btn:hover{
+    background-color: rgb(85, 66, 66);
+
+}
